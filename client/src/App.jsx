@@ -12,9 +12,11 @@ function App() {
     </svg>
     <span className="font-bold text-xl">AirFloat</span>
     </a>
-    <div className="flex">
+    <div className="flex gap-2 border border-gray-300 rounded-full py-2 px-4 shadow-md shadow-gray-300">
     <div>Anywhere</div>
+    <div className="border-l border-gray-300"></div>
     <div>Any week</div>
+    <div className="border-l border-gray-300"></div>
     <div>Add guests</div>
     <button>
     <svg xmlns="http://www.w3.org/2000/svg" width="25" viewBox="0 0 27 27">
